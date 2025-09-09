@@ -1,4 +1,7 @@
+Project 2:
+
 📩 Contact Page
+
 The Contact Page is designed to allow users to connect easily via multiple communication methods. It includes a responsive form, styled buttons, and clear UI for better usability. The page is divided into three main components:
 
 🔹 Components
