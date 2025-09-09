@@ -2,7 +2,7 @@
 
 :root {
     --red: #d01c28;
-    --gray: #121111;
+    --gray: #605b5b;
 }
 
 * {
@@ -59,7 +59,7 @@ nav ul {
 }
 
 .hero p {
-    font-weight: 060;
+    font-weight: 600;
     color: var(--gray);
     max-width: 400px;
 }
